@@ -1,0 +1,12 @@
+Packers and Movers is a project which is developed to provide a interactive platform between clients and packers and movers company.
+This project provides best and reliable services in relocating.
+Clients can book the services through this web portal.
+This Project provides useful information to clients in the process of relocating their house Packers and mover’s agency work according to the needs and requirement of the customers and provide them the desirable results.
+The packers and movers’ agencies use best quality packing materials to pack our goods in such a way that all goods remain in safe condition during transit &moving services assure the safe delivery of our goods at our destination. 
+The payment can be made online or pay-on-delivery system. 
+The user’s details are maintained confidential because it maintains a separate account for each user. 
+An id and password are provided for each user. Therefore, it provides a more secured ordering. Admin gets login by valid username and password.
+Admin can view the request send by clients. Admin can view the suggestions and feedback given by the client. 
+Admin can view all registered packers’ details. Admin verifies the registration details and provide services.
+Users can get login with a valid username and password and view all the services provided by the agency.
+Users can book the services online for location moving car from one place to another place and house shifting from anywhere.
